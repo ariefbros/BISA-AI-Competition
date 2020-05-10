@@ -1,7 +1,8 @@
 # Deploy Klasifikasi Covid19 dengan menggunakan DCNN
 
+Sebelum Run program download Model di : https://drive.google.com/drive/folders/1ppjXF0_pzFhoevR0e7JLeqRqxNuR6Fyy?usp=sharing
 
-## Getting started in 10 minutes
+## Getting started 
 
 - Clone this repo 
 - Install requirements
