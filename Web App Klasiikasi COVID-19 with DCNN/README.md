@@ -9,6 +9,3 @@ Sebelum Run program download Model di : https://drive.google.com/drive/folders/1
 - Run the script
 - Go to http://localhost:5000
 - Done! :tada:
-
-:point_down: Screenshot:
-
